@@ -1,5 +1,3 @@
-#Cristea Andrei si Nicula Andrei --- grupa 134
-
 import numpy as np
 import matplotlib.pyplot as plt
 from reedsolo import RSCodec
