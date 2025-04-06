@@ -1,11 +1,8 @@
-#Cristea Andrei si Nicula Andrei --- grupa 134
-
-#import qrcode
 import numpy as np
-#import matplotlib.pyplot as plt
 import cv2
 import math
-
+#import qrcode
+#import matplotlib.pyplot as plt
 
 
 
